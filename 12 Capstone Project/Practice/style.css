@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+.container {
+    height: 80rem;
+    display: relative;
+}
+
+.container > h1 {
+    color: white;
+    position: absolute;
+    left: 500px;
+    bottom: 500px;
+}
+
+.white {
+    background-color: white;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.box {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    align-items: center;
+}
